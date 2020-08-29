@@ -1,7 +1,7 @@
 From 359ec3f820b526c980de52d0396cd7093d5380cf Mon Sep 17 00:00:00 2001
 From: Abhishek Vithal <vithalabhishek@gmail.com>
-Date: Wed, 16 Oct 2019 13:39:08 +0800
-Subject: [PATCH] Make model solution
+Date: Thu, 27 Aug 2020 13:39:08 +0800
+Subject: [PATCH] Make model solutions
 
 ---
  src/App.tsx   | 24 ++++++++++++++++++------
