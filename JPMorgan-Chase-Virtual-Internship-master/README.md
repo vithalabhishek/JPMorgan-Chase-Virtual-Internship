@@ -6,9 +6,6 @@ This repository contains the submitted patch files of the various tasks assigned
 
 [https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk](https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk)
 
-## My Certificate of Completion 
-
-![](https://github.com/vithalabhishek/JPMorgan-Chase-Virtual-Internship/JPMorgan-Chase-Virtual-Internship-master/master/JP%20Morgan%20Chase.jpg)
 
 ## For any queries/doubts:
 
